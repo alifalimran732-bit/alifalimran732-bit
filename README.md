@@ -1,34 +1,71 @@
-<div align="center">
+# 👋 Hi, I'm Alif!
 
-# ✨ ALIF AL IMRAN ✨
+### 💻 Developer • 🎮 Game Creator • 🚀 Project Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+build+apps+and+games;Calendar+by+Alif+Al+Imran;More+projects+coming+soon..." alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+Alif's+GitHub!;I+Love+Building+Apps+%26+Games;Turning+Ideas+Into+Code+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%92%A1" alt="Typing Animation" />
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:7c3aed&height=120&section=header&text=ALIF%20AL%20IMRAN&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%">
+## 🚀 About Me
 
-</div>
+* 💻 I enjoy creating apps and games
+* 🎮 Interested in game development
+* 🧠 Learning programming by building projects
+* ✨ Always experimenting with new ideas
+* 🌟 Goal: Turn creative ideas into real projects
 
-## 🚀 My Projects
+---
 
-* 📅 **Calendar by Alif Al Imran**
-* 🧮 **Alif Calculator**
-* 🧠 **Alif Math Solver**
-* 🕐 **Alif Digital Clock**
-* 🎮 Browser Games
+## 🛠️ My Projects
 
-## 💻 What I Like
+### 🧮 Alif Calculator
 
-* 🌐 Web Apps
-* 🎮 Game Development
-* 🧮 Useful Tools
-* 🎨 Creative UI Design
+A modern calculator project with a clean interface and useful features.
 
-<div align="center">
+### 🧠 Alif Math Solver
 
-### ✨ Thanks for visiting my profile! ✨
+A math-focused project designed to help solve and work with mathematical problems.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:00ffff&height=100&section=footer&animation=twinkling">
+### 🕐 Alif Digital Clock
 
-</div>
+A digital clock project featuring manual time setting, date display, 12/24-hour mode and real-time reset.
+
+### 🐍 Snake Game
+
+A classic Snake game project built for the browser.
+
+---
+
+## 🎯 What I'm Building
+
+```text
+💡 Idea
+   ↓
+🧑‍💻 Code
+   ↓
+🎨 Design
+   ↓
+🧪 Test
+   ↓
+🚀 Publish
+```
+
+---
+
+## 📊 My GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌟 Thanks for Visiting!
+
+> “Every project starts with an idea.”
+
+⭐ Feel free to explore my projects and follow my journey!
+
+---
+
+### 🚀 Keep Coding. Keep Creating. Keep Improving.
